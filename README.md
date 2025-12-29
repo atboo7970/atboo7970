@@ -1,124 +1,88 @@
-👋 Mohamed Ashraf | @atboo7970
-<p align="center"> <b>CTO • Full-Stack Engineer • SaaS Architect • Founder-Minded Builder</b> </p> <p align="center"> <i>Building scalable SaaS systems, multi-tenant architectures, and production-grade platforms.</i> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=atboo7970&label=Profile%20Views&color=0e75b6&style=flat" /> <img src="https://img.shields.io/github/followers/atboo7970?label=Followers&style=social" /> </p>
-🚀 About Me
+# Mohamed Ashraf (@atboo7970)
 
-Results-driven CTO & Full-Stack Engineer with strong experience in designing and building scalable SaaS platforms and enterprise-grade systems.
+**CTO • Full-Stack Engineer • SaaS Architect**  
+Founder-minded engineer building scalable, secure, production-grade software.
 
-I turn complex business requirements into:
+---
 
-clean architecture
+## Executive Summary
+I am a results-driven CTO and Full-Stack Engineer specializing in **SaaS platforms**, **multi-tenant architectures**, and **enterprise-grade systems**.
 
-secure APIs
+My work focuses on transforming complex business requirements into clean, maintainable, and scalable software that performs reliably in real-world production environments.
 
-maintainable, high-performance code
+---
 
-with a strong focus on long-term scalability and business impact.
+## Core Capabilities
+- SaaS Architecture & Multi-Tenant System Design
+- Secure API Design (REST, JWT)
+- System Scalability & Performance Optimization
+- Technical Leadership & Architecture Decisions
+- Developer Experience (DX) & Code Quality
+- Production Readiness & Reliability
 
-🧠 Core Expertise
+---
 
-SaaS Architecture & Multi-Tenancy
+## Technical Stack
 
-System Design & Scalability
+### Backend
+- Laravel (Advanced)
+- .NET / C#
+- REST APIs, JWT Authentication
+- GraphQL (Basic)
+- Multi-tenancy (Stancl, Custom Patterns)
 
-Secure API Design (JWT, REST)
+### Frontend
+- Vue.js, React (Integration Level)
+- Blade Templates
+- Tailwind CSS, Bootstrap
 
-Performance Optimization
+### Data & Infrastructure
+- MySQL / MariaDB
+- Redis
+- Docker & Docker Compose
+- Linux Servers
+- CI/CD Pipelines
+- Git & GitHub Workflows
 
-Developer Experience (DX)
+---
 
-Technical Leadership & Decision Making
+## Selected Experience
 
-🛠 Tech Stack
-Backend
+### Multi-Tenant CRM & Student Platform
+- Role-based access control
+- Scheduling & automation workflows
+- Payments, subscriptions, and certificates
+- Designed for scale and long-term maintainability
 
+### Enterprise Admin Dashboards
+- High-performance data-driven interfaces
+- Optimized queries and backend performance
+- Internal tools for large operational teams
 
+### API-First Platforms
+- Mobile-ready APIs
+- Third-party integrations
+- Security-first design
 
+---
 
+## Current Focus
+- Building production-ready SaaS products
+- Advanced system design for scale & security
+- Deepening expertise in the .NET ecosystem
+- Remote and international engineering collaboration
 
+---
 
+## GitHub Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atboo7970&show_icons=true)
 
+---
 
-Laravel (advanced)
+## Contact
+- Website: https://web.ww0.uk/
+- Email: admin@1devx.com
 
-.NET / C#
+---
 
-REST APIs, JWT
-
-GraphQL (basic)
-
-Multi-tenancy (Stancl, custom patterns)
-
-Frontend
-
-Vue.js, React (integration level)
-
-Blade
-
-Tailwind CSS, Bootstrap
-
-Database & Caching
-
-MySQL / MariaDB
-
-Redis
-
-Schema design & query optimization
-
-DevOps
-
-Docker & Docker Compose
-
-Linux servers
-
-Git & GitHub workflows
-
-CI/CD pipelines
-
-Monitoring & reliability
-
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=atboo7970&show_icons=true&theme=radical" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=atboo7970&theme=radical" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atboo7970&layout=compact&theme=radical" /> </p>
-🧩 Selected Work
-
-Multi-Tenant CRM & Student Platform
-Role-based access, scheduling, payments, certificates, automation workflows
-
-Enterprise Admin Dashboards
-High-performance dashboards with data-driven UX
-
-API-First Platforms
-Built for mobile apps and third-party integrations
-
-🎯 Current Focus
-
-Building production-ready SaaS products
-
-Improving DX and internal tooling
-
-Deepening expertise in .NET ecosystem
-
-Designing systems for scale, security & maintainability
-
-Open to remote & international opportunities
-
-🤝 How I Can Help
-
-✅ Architect scalable SaaS systems
-✅ Design secure & high-performance APIs
-✅ Lead engineering teams
-✅ Align technical decisions with business goals
-✅ Mentor developers & improve processes
-
-📫 Contact
-
-🌐 Website: https://web.ww0.uk/
-
-📧 Email: admin@1devx.com
-
-🏷 Open To
-
-Remote CTO / Senior Engineer roles
-SaaS consulting & architecture
-Long-term technical partnerships
-
-🔥 
+**Open to remote CTO, Senior Engineer roles, and long-term SaaS consulting.**
